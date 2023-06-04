@@ -29,6 +29,6 @@ Lembre-se de personalizar o texto de acordo com as características do seu formu
 
 VSCode (Visual Studio Code)
 
-### Autor:
+### Autora:
 Tamires Rodrigues de Oliveira.
 
